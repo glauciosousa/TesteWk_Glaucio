@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/02/01 18:25:37.662,=C:\Users\profr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/01 18:26:34.245,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\frmPedido.pas=C:\Users\profr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/01 18:26:34.245,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\frmPedido.dfm=C:\Users\profr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/01 18:26:47.506,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\TesteWK_Glaucio.dproj=C:\Users\profr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/02 10:22:04.044,=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 10:22:35.320,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\dtmPedido.dfm=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit1.dfm</Transaction>
+    <Transaction>2022/02/02 10:22:35.320,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\dtmPedido.pas=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit1.pas</Transaction>
+    <Transaction>2022/02/02 13:37:10.659,=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit2.pas</Transaction>
+    <Transaction>2022/02/02 13:39:30.151,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\frmPesquisarClientes.dfm=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit2.dfm</Transaction>
+    <Transaction>2022/02/02 13:39:30.151,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\frmPesquisarClientes.pas=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit2.pas</Transaction>
+    <Transaction>2022/02/02 13:39:55.943,=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit3.pas</Transaction>
+    <Transaction>2022/02/02 13:40:53.932,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\frmPesquisarProdutos.dfm=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit3.dfm</Transaction>
+    <Transaction>2022/02/02 13:40:53.932,C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\frmPesquisarProdutos.pas=C:\Users\profr\OneDrive\Área de Trabalho\TesteWK\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
